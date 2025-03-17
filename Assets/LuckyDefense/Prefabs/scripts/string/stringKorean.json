@@ -1,0 +1,92 @@
+[
+  {
+    "stringID": "1",
+    "langaugeType": "23",
+    "stringData": "{0}"
+  },
+  {
+    "stringID": "2",
+    "langaugeType": "23",
+    "stringData": "{0} / {1}"
+  },
+  {
+    "stringID": "3",
+    "langaugeType": "23",
+    "stringData": "{0}:{1}"
+  },
+  {
+    "stringID": "4",
+    "langaugeType": "23",
+    "stringData": "{0}%"
+  },
+  {
+    "stringID": "5",
+    "langaugeType": "23",
+    "stringData": "일반1"
+  },
+  {
+    "stringID": "6",
+    "langaugeType": "23",
+    "stringData": "일반2"
+  },
+  {
+    "stringID": "7",
+    "langaugeType": "23",
+    "stringData": "희귀1"
+  },
+  {
+    "stringID": "8",
+    "langaugeType": "23",
+    "stringData": "희귀2"
+  },
+  {
+    "stringID": "9",
+    "langaugeType": "23",
+    "stringData": "영웅1"
+  },
+  {
+    "stringID": "10",
+    "langaugeType": "23",
+    "stringData": "영웅2"
+  },
+  {
+    "stringID": "11",
+    "langaugeType": "23",
+    "stringData": "신화1"
+  },
+  {
+    "stringID": "12",
+    "langaugeType": "23",
+    "stringData": "신화2"
+  },
+  {
+    "stringID": "13",
+    "langaugeType": "23",
+    "stringData": "패시브"
+  },
+  {
+    "stringID": "14",
+    "langaugeType": "23",
+    "stringData": "액티브"
+  },
+  {
+    "stringID": "15",
+    "langaugeType": "23",
+    "stringData": "스킬명"
+  },
+  {
+    "stringID": "16",
+    "langaugeType": "23",
+    "stringData": "스킬 설명"
+  },
+  {
+    "stringID": "17",
+    "langaugeType": "23",
+    "stringData": "몬스터"
+  },
+  {
+    "stringID": "18",
+    "langaugeType": "23",
+    "stringData": "보스"
+  }
+]

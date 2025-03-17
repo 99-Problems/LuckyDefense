@@ -1,0 +1,252 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: LuckyDefneseAssets
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f005055be9a21644db214ac198c47aea
+  m_SerializeEntries:
+  - m_GUID: 0211e9f9c6646c74f8adeb4a85202756
+    m_Address: Assets/LuckyDefense/Prefabs/scripts/UnitStatInfo.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Script
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0392e75e4f89dcc439e0ecfac1339efa
+    m_Address: Assets/LuckyDefense/Prefabs/unit/player/2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0cb5de4697a5e14409e2445c27d7af73
+    m_Address: Assets/LuckyDefense/Prefabs/common/effect/4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15408fe7f7b35d644bda7373343ca47d
+    m_Address: Assets/LuckyDefense/Prefabs/scripts/MonsterDropInfo.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Script
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18645d57e487bef418f61592075bc59f
+    m_Address: Assets/LuckyDefense/ui/font/NanumBarunGothicSDF_Default.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Mat
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a3830ac14830f64fa5c997adaa57bc4
+    m_Address: Assets/LuckyDefense/Prefabs/scripts/UnitMythInfo.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Script
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 207c84eddceda6f4fad03aa5ad6e5cee
+    m_Address: Assets/LuckyDefense/Prefabs/common/effect/8.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20c8853f6dcd337488be6f73b8a1dc9c
+    m_Address: Assets/LuckyDefense/Prefabs/popup/PopupGamble.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Popup
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ab7d1bd09a0138449b0a3ee95558811
+    m_Address: Assets/LuckyDefense/Prefabs/common/collider/box.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b48fc8f9581d524aa1b710c64de9b67
+    m_Address: Assets/LuckyDefense/Prefabs/common/effect/9.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39aa183bc0d99424c9aba8cd4df5eda5
+    m_Address: Assets/LuckyDefense/Prefabs/common/effect/10.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4335e8a1d66e5344ca02898138bffc55
+    m_Address: Assets/LuckyDefense/Prefabs/common/effect/3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 43cd5b90c6d18854e92c79fd13f561ce
+    m_Address: Assets/LuckyDefense/Prefabs/unit/player/4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c0430014f5fd06448b9dc693af664cf
+    m_Address: Assets/LuckyDefense/Prefabs/scripts/UnitGambleInfo.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Script
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56046049bd4701547b31d1efc38efb93
+    m_Address: Assets/LuckyDefense/Prefabs/scripts/string/stringKorean.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Script
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6cec1ab749d35ba48b9a24de9984ca1f
+    m_Address: Assets/LuckyDefense/Prefabs/scripts/UnitInfo.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Script
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ed9357e32d16804b8f4f8b4dd0a3cd6
+    m_Address: Assets/LuckyDefense/Prefabs/common/effect/2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b7bf295e5f70c74bb945e9a0b381f54
+    m_Address: Assets/LuckyDefense/Prefabs/unit/player/3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f0e3cc07f10af943b59cb535a28dc94
+    m_Address: Assets/LuckyDefense/Prefabs/unit/player/10.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84217597ed266ac4abe55be7a6ea88a9
+    m_Address: Assets/LuckyDefense/Prefabs/scripts/UnitSellInfo.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Script
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84eca58171cd09540b4299069054083c
+    m_Address: Assets/LuckyDefense/Prefabs/scripts/UnitSkillInfo.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Script
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92dfe3acb180b854d8d6ec98b3136cbb
+    m_Address: Assets/LuckyDefense/ui/font/NanumBarunGothicSDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9333e01f8033f364985e8d56463c8df9
+    m_Address: Assets/LuckyDefense/Prefabs/scripts/ConstValue.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Script
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93e42533ad11cfc458a6a53283cba28e
+    m_Address: Assets/LuckyDefense/Prefabs/unit/player/8.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0df3abe22823104c92dd69b3af7c507
+    m_Address: Assets/LuckyDefense/Prefabs/common/effect/11.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1ea6696e1e1aca44bd19b698aae60de
+    m_Address: Assets/LuckyDefense/Prefabs/scripts/InGameSpawnInfo.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Script
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd6f272578b1c8c408bc5bf0aacff611
+    m_Address: Assets/LuckyDefense/Prefabs/common/effect/6.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be4357cb340da9348b30e12515364822
+    m_Address: Assets/LuckyDefense/Prefabs/common/effect/7.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c78d3381411a2d746a58bd9970c30632
+    m_Address: Assets/LuckyDefense/Prefabs/scripts/UnitSummonInfo.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Script
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce8515236b6645c4fad8054aad4b0bb0
+    m_Address: Assets/LuckyDefense/Prefabs/common/effect/5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf6fba8636d5213438d19eb3e67aeb80
+    m_Address: Assets/LuckyDefense/Prefabs/popup/PopupPush/PopupPush.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Popup
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d125a0dfc36ecdd48b0dfa9d318a5a40
+    m_Address: Assets/LuckyDefense/Prefabs/unit/player/9.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d55d3d7643a792c40b91f974f0a3b0c1
+    m_Address: Assets/LuckyDefense/Prefabs/unit/player/6.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d83e71c806b5a8f4996ad37df1049130
+    m_Address: Assets/LuckyDefense/Prefabs/unit/player/7.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3a829e6f75574a4795a374c068fe8a2
+    m_Address: Assets/LuckyDefense/Prefabs/unit/player/1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5d3977ce38a4924e9a90f0e13d5ee5b
+    m_Address: Assets/LuckyDefense/Prefabs/common/DamageParticle.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e63196b2a3e60f746bcaf313563e601f
+    m_Address: Assets/LuckyDefense/Prefabs/scripts/GamePlayInfo.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Script
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7d5d1d37fc17e249b743fbd531976ef
+    m_Address: Assets/LuckyDefense/Prefabs/unit/player/5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ca9f38dbd4b523444a4f29c7181c3298, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3e5cc9a50b25bbd47a64ced729c6883f, type: 2}
+    - {fileID: 11400000, guid: 483c98f5fe506e34c961e1c0617a82ce, type: 2}

@@ -1,0 +1,182 @@
+[
+  {
+    "grade": "1",
+    "wave": "1",
+    "waveTime": "20",
+    "spawnTick": "1",
+    "unitID": "9",
+    "statGrade": "9",
+    "waveClearGold": "20"
+  },
+  {
+    "grade": "1",
+    "wave": "2",
+    "waveTime": "20",
+    "spawnTick": "1",
+    "unitID": "9",
+    "statGrade": "9",
+    "waveClearGold": "20"
+  },
+  {
+    "grade": "1",
+    "wave": "3",
+    "waveTime": "20",
+    "spawnTick": "1",
+    "unitID": "9",
+    "statGrade": "9",
+    "waveClearGold": "20"
+  },
+  {
+    "grade": "1",
+    "wave": "4",
+    "waveTime": "20",
+    "spawnTick": "1",
+    "unitID": "9",
+    "statGrade": "9",
+    "waveClearGold": "20"
+  },
+  {
+    "grade": "1",
+    "wave": "5",
+    "waveTime": "20",
+    "spawnTick": "1",
+    "unitID": "9",
+    "statGrade": "9",
+    "waveClearGold": "20"
+  },
+  {
+    "grade": "1",
+    "wave": "6",
+    "waveTime": "20",
+    "spawnTick": "1",
+    "unitID": "9",
+    "statGrade": "9",
+    "waveClearGold": "20"
+  },
+  {
+    "grade": "1",
+    "wave": "7",
+    "waveTime": "20",
+    "spawnTick": "1",
+    "unitID": "9",
+    "statGrade": "9",
+    "waveClearGold": "20"
+  },
+  {
+    "grade": "1",
+    "wave": "8",
+    "waveTime": "20",
+    "spawnTick": "1",
+    "unitID": "9",
+    "statGrade": "9",
+    "waveClearGold": "20"
+  },
+  {
+    "grade": "1",
+    "wave": "9",
+    "waveTime": "20",
+    "spawnTick": "1",
+    "unitID": "9",
+    "statGrade": "9",
+    "waveClearGold": "20"
+  },
+  {
+    "grade": "1",
+    "wave": "10",
+    "waveTime": "40",
+    "spawnTick": "-1",
+    "unitID": "10",
+    "statGrade": "10",
+    "waveClearGold": "20"
+  },
+  {
+    "grade": "1",
+    "wave": "11",
+    "waveTime": "20",
+    "spawnTick": "1",
+    "unitID": "9",
+    "statGrade": "11",
+    "waveClearGold": "20"
+  },
+  {
+    "grade": "1",
+    "wave": "12",
+    "waveTime": "20",
+    "spawnTick": "1",
+    "unitID": "9",
+    "statGrade": "11",
+    "waveClearGold": "20"
+  },
+  {
+    "grade": "1",
+    "wave": "13",
+    "waveTime": "20",
+    "spawnTick": "1",
+    "unitID": "9",
+    "statGrade": "11",
+    "waveClearGold": "20"
+  },
+  {
+    "grade": "1",
+    "wave": "14",
+    "waveTime": "20",
+    "spawnTick": "1",
+    "unitID": "9",
+    "statGrade": "11",
+    "waveClearGold": "20"
+  },
+  {
+    "grade": "1",
+    "wave": "15",
+    "waveTime": "20",
+    "spawnTick": "1",
+    "unitID": "9",
+    "statGrade": "11",
+    "waveClearGold": "20"
+  },
+  {
+    "grade": "1",
+    "wave": "16",
+    "waveTime": "20",
+    "spawnTick": "1",
+    "unitID": "9",
+    "statGrade": "11",
+    "waveClearGold": "20"
+  },
+  {
+    "grade": "1",
+    "wave": "17",
+    "waveTime": "20",
+    "spawnTick": "1",
+    "unitID": "9",
+    "statGrade": "11",
+    "waveClearGold": "20"
+  },
+  {
+    "grade": "1",
+    "wave": "18",
+    "waveTime": "20",
+    "spawnTick": "1",
+    "unitID": "9",
+    "statGrade": "11",
+    "waveClearGold": "20"
+  },
+  {
+    "grade": "1",
+    "wave": "19",
+    "waveTime": "20",
+    "spawnTick": "1",
+    "unitID": "9",
+    "statGrade": "11",
+    "waveClearGold": "20"
+  },
+  {
+    "grade": "1",
+    "wave": "20",
+    "waveTime": "40",
+    "spawnTick": "-1",
+    "unitID": "10",
+    "statGrade": "10",
+    "waveClearGold": "20"
+  }
+]

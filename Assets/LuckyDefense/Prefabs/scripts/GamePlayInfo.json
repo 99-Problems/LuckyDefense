@@ -1,0 +1,10 @@
+[
+  {
+    "grade": "1",
+    "startgold": "100",
+    "maxMonsterCount": "100",
+    "maxUnitCount": "20",
+    "summonCost": "20",
+    "addCost": "2"
+  }
+]

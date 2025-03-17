@@ -1,0 +1,332 @@
+[
+  {
+    "accountStatGrade": "1",
+    "statType": "1",
+    "statVal": "10"
+  },
+  {
+    "accountStatGrade": "1",
+    "statType": "2",
+    "statVal": "1"
+  },
+  {
+    "accountStatGrade": "1",
+    "statType": "3",
+    "statVal": "1"
+  },
+  {
+    "accountStatGrade": "1",
+    "statType": "4",
+    "statVal": "1"
+  },
+  {
+    "accountStatGrade": "1",
+    "statType": "5",
+    "statVal": "10"
+  },
+  {
+    "accountStatGrade": "1",
+    "statType": "6",
+    "statVal": "5"
+  },
+  {
+    "accountStatGrade": "2",
+    "statType": "1",
+    "statVal": "10"
+  },
+  {
+    "accountStatGrade": "2",
+    "statType": "2",
+    "statVal": "1"
+  },
+  {
+    "accountStatGrade": "2",
+    "statType": "3",
+    "statVal": "1"
+  },
+  {
+    "accountStatGrade": "2",
+    "statType": "4",
+    "statVal": "1"
+  },
+  {
+    "accountStatGrade": "2",
+    "statType": "5",
+    "statVal": "10"
+  },
+  {
+    "accountStatGrade": "2",
+    "statType": "6",
+    "statVal": "10"
+  },
+  {
+    "accountStatGrade": "3",
+    "statType": "1",
+    "statVal": "100"
+  },
+  {
+    "accountStatGrade": "3",
+    "statType": "2",
+    "statVal": "1"
+  },
+  {
+    "accountStatGrade": "3",
+    "statType": "3",
+    "statVal": "1"
+  },
+  {
+    "accountStatGrade": "3",
+    "statType": "4",
+    "statVal": "2"
+  },
+  {
+    "accountStatGrade": "3",
+    "statType": "5",
+    "statVal": "10"
+  },
+  {
+    "accountStatGrade": "3",
+    "statType": "6",
+    "statVal": "10"
+  },
+  {
+    "accountStatGrade": "4",
+    "statType": "1",
+    "statVal": "100"
+  },
+  {
+    "accountStatGrade": "4",
+    "statType": "2",
+    "statVal": "1"
+  },
+  {
+    "accountStatGrade": "4",
+    "statType": "3",
+    "statVal": "1"
+  },
+  {
+    "accountStatGrade": "4",
+    "statType": "4",
+    "statVal": "2"
+  },
+  {
+    "accountStatGrade": "4",
+    "statType": "5",
+    "statVal": "10"
+  },
+  {
+    "accountStatGrade": "4",
+    "statType": "6",
+    "statVal": "20"
+  },
+  {
+    "accountStatGrade": "5",
+    "statType": "1",
+    "statVal": "1000"
+  },
+  {
+    "accountStatGrade": "5",
+    "statType": "2",
+    "statVal": "1"
+  },
+  {
+    "accountStatGrade": "5",
+    "statType": "3",
+    "statVal": "1"
+  },
+  {
+    "accountStatGrade": "5",
+    "statType": "4",
+    "statVal": "3"
+  },
+  {
+    "accountStatGrade": "5",
+    "statType": "5",
+    "statVal": "10"
+  },
+  {
+    "accountStatGrade": "5",
+    "statType": "6",
+    "statVal": "20"
+  },
+  {
+    "accountStatGrade": "6",
+    "statType": "1",
+    "statVal": "1000"
+  },
+  {
+    "accountStatGrade": "6",
+    "statType": "2",
+    "statVal": "1"
+  },
+  {
+    "accountStatGrade": "6",
+    "statType": "3",
+    "statVal": "1"
+  },
+  {
+    "accountStatGrade": "6",
+    "statType": "4",
+    "statVal": "3"
+  },
+  {
+    "accountStatGrade": "6",
+    "statType": "5",
+    "statVal": "10"
+  },
+  {
+    "accountStatGrade": "6",
+    "statType": "6",
+    "statVal": "40"
+  },
+  {
+    "accountStatGrade": "7",
+    "statType": "1",
+    "statVal": "10000"
+  },
+  {
+    "accountStatGrade": "7",
+    "statType": "2",
+    "statVal": "1"
+  },
+  {
+    "accountStatGrade": "7",
+    "statType": "3",
+    "statVal": "1"
+  },
+  {
+    "accountStatGrade": "7",
+    "statType": "4",
+    "statVal": "5"
+  },
+  {
+    "accountStatGrade": "7",
+    "statType": "5",
+    "statVal": "10"
+  },
+  {
+    "accountStatGrade": "7",
+    "statType": "6",
+    "statVal": "60"
+  },
+  {
+    "accountStatGrade": "8",
+    "statType": "1",
+    "statVal": "100000"
+  },
+  {
+    "accountStatGrade": "8",
+    "statType": "2",
+    "statVal": "1"
+  },
+  {
+    "accountStatGrade": "8",
+    "statType": "3",
+    "statVal": "1"
+  },
+  {
+    "accountStatGrade": "8",
+    "statType": "4",
+    "statVal": "5"
+  },
+  {
+    "accountStatGrade": "8",
+    "statType": "5",
+    "statVal": "10"
+  },
+  {
+    "accountStatGrade": "8",
+    "statType": "6",
+    "statVal": "80"
+  },
+  {
+    "accountStatGrade": "9",
+    "statType": "1",
+    "statVal": "10"
+  },
+  {
+    "accountStatGrade": "9",
+    "statType": "2",
+    "statVal": "1"
+  },
+  {
+    "accountStatGrade": "9",
+    "statType": "3",
+    "statVal": "30"
+  },
+  {
+    "accountStatGrade": "9",
+    "statType": "4",
+    "statVal": "1"
+  },
+  {
+    "accountStatGrade": "9",
+    "statType": "5",
+    "statVal": "5"
+  },
+  {
+    "accountStatGrade": "9",
+    "statType": "6",
+    "statVal": "5"
+  },
+  {
+    "accountStatGrade": "10",
+    "statType": "1",
+    "statVal": "10"
+  },
+  {
+    "accountStatGrade": "10",
+    "statType": "2",
+    "statVal": "5"
+  },
+  {
+    "accountStatGrade": "10",
+    "statType": "3",
+    "statVal": "1000000"
+  },
+  {
+    "accountStatGrade": "10",
+    "statType": "4",
+    "statVal": "1"
+  },
+  {
+    "accountStatGrade": "10",
+    "statType": "5",
+    "statVal": "5"
+  },
+  {
+    "accountStatGrade": "10",
+    "statType": "6",
+    "statVal": "5"
+  },
+  {
+    "accountStatGrade": "11",
+    "statType": "1",
+    "statVal": "10"
+  },
+  {
+    "accountStatGrade": "11",
+    "statType": "2",
+    "statVal": "1"
+  },
+  {
+    "accountStatGrade": "11",
+    "statType": "3",
+    "statVal": "3000"
+  },
+  {
+    "accountStatGrade": "11",
+    "statType": "4",
+    "statVal": "1"
+  },
+  {
+    "accountStatGrade": "11",
+    "statType": "5",
+    "statVal": "5"
+  },
+  {
+    "accountStatGrade": "11",
+    "statType": "6",
+    "statVal": "5"
+  }
+]

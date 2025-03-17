@@ -1,0 +1,90 @@
+[
+  {
+    "skillID": "1",
+    "skillType": "1",
+    "damageType": "0",
+    "effectArg": "1",
+    "nameID": "15",
+    "descID": "16"
+  },
+  {
+    "skillID": "2",
+    "skillType": "2",
+    "damageType": "2",
+    "effectArg": "1",
+    "nameID": "15",
+    "descID": "16"
+  },
+  {
+    "skillID": "3",
+    "skillType": "2",
+    "damageType": "1",
+    "effectArg": "1",
+    "nameID": "15",
+    "descID": "16"
+  },
+  {
+    "skillID": "4",
+    "skillType": "2",
+    "damageType": "2",
+    "effectArg": "1",
+    "nameID": "15",
+    "descID": "16"
+  },
+  {
+    "skillID": "5",
+    "skillType": "2",
+    "damageType": "1",
+    "effectArg": "1",
+    "nameID": "15",
+    "descID": "16"
+  },
+  {
+    "skillID": "6",
+    "skillType": "2",
+    "damageType": "2",
+    "effectArg": "1",
+    "nameID": "15",
+    "descID": "16"
+  },
+  {
+    "skillID": "7",
+    "skillType": "2",
+    "damageType": "1",
+    "effectArg": "1",
+    "nameID": "15",
+    "descID": "16"
+  },
+  {
+    "skillID": "8",
+    "skillType": "2",
+    "damageType": "2",
+    "effectArg": "1",
+    "nameID": "15",
+    "descID": "16"
+  },
+  {
+    "skillID": "9",
+    "skillType": "2",
+    "damageType": "1",
+    "effectArg": "1",
+    "nameID": "15",
+    "descID": "16"
+  },
+  {
+    "skillID": "10",
+    "skillType": "3",
+    "damageType": "2",
+    "effectArg": "1000",
+    "nameID": "15",
+    "descID": "16"
+  },
+  {
+    "skillID": "11",
+    "skillType": "4",
+    "damageType": "1",
+    "effectArg": "1000",
+    "nameID": "15",
+    "descID": "16"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "unitID": "1",
+    "nameID": "5",
+    "prefabName": "1",
+    "assetPath": "player",
+    "unitType": "1",
+    "unitRarity": "1",
+    "passiveSkillID": "1",
+    "normalAttackID": "2",
+    "activeSkillID": "0",
+    "active2SkillID": "0"
+  },
+  {
+    "unitID": "2",
+    "nameID": "6",
+    "prefabName": "2",
+    "assetPath": "player",
+    "unitType": "1",
+    "unitRarity": "1",
+    "passiveSkillID": "1",
+    "normalAttackID": "3",
+    "activeSkillID": "0",
+    "active2SkillID": "0"
+  },
+  {
+    "unitID": "3",
+    "nameID": "7",
+    "prefabName": "3",
+    "assetPath": "player",
+    "unitType": "1",
+    "unitRarity": "2",
+    "passiveSkillID": "1",
+    "normalAttackID": "4",
+    "activeSkillID": "10",
+    "active2SkillID": "0"
+  },
+  {
+    "unitID": "4",
+    "nameID": "8",
+    "prefabName": "4",
+    "assetPath": "player",
+    "unitType": "1",
+    "unitRarity": "2",
+    "passiveSkillID": "1",
+    "normalAttackID": "5",
+    "activeSkillID": "10",
+    "active2SkillID": "0"
+  },
+  {
+    "unitID": "5",
+    "nameID": "9",
+    "prefabName": "5",
+    "assetPath": "player",
+    "unitType": "1",
+    "unitRarity": "3",
+    "passiveSkillID": "1",
+    "normalAttackID": "6",
+    "activeSkillID": "10",
+    "active2SkillID": "0"
+  },
+  {
+    "unitID": "6",
+    "nameID": "10",
+    "prefabName": "6",
+    "assetPath": "player",
+    "unitType": "1",
+    "unitRarity": "3",
+    "passiveSkillID": "1",
+    "normalAttackID": "7",
+    "activeSkillID": "10",
+    "active2SkillID": "0"
+  },
+  {
+    "unitID": "7",
+    "nameID": "11",
+    "prefabName": "7",
+    "assetPath": "player",
+    "unitType": "1",
+    "unitRarity": "5",
+    "passiveSkillID": "1",
+    "normalAttackID": "8",
+    "activeSkillID": "10",
+    "active2SkillID": "11"
+  },
+  {
+    "unitID": "8",
+    "nameID": "12",
+    "prefabName": "8",
+    "assetPath": "player",
+    "unitType": "1",
+    "unitRarity": "5",
+    "passiveSkillID": "1",
+    "normalAttackID": "9",
+    "activeSkillID": "10",
+    "active2SkillID": "11"
+  },
+  {
+    "unitID": "9",
+    "nameID": "17",
+    "prefabName": "9",
+    "assetPath": "monster",
+    "unitType": "2",
+    "unitRarity": "1",
+    "passiveSkillID": "0",
+    "normalAttackID": "0",
+    "activeSkillID": "0",
+    "active2SkillID": "0"
+  },
+  {
+    "unitID": "10",
+    "nameID": "18",
+    "prefabName": "10",
+    "assetPath": "monster",
+    "unitType": "2",
+    "unitRarity": "11",
+    "passiveSkillID": "0",
+    "normalAttackID": "0",
+    "activeSkillID": "0",
+    "active2SkillID": "0"
+  }
+]

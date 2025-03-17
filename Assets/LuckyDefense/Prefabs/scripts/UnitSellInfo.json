@@ -1,0 +1,27 @@
+[
+  {
+    "rarity": "1",
+    "itemType": "1",
+    "itemCount": "15"
+  },
+  {
+    "rarity": "2",
+    "itemType": "2",
+    "itemCount": "1"
+  },
+  {
+    "rarity": "3",
+    "itemType": "2",
+    "itemCount": "2"
+  },
+  {
+    "rarity": "4",
+    "itemType": "2",
+    "itemCount": "3"
+  },
+  {
+    "rarity": "5",
+    "itemType": "2",
+    "itemCount": "4"
+  }
+]
